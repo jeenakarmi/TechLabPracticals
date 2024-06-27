@@ -1,0 +1,3 @@
+This is an example text with some words containing the letter J. 
+For example, we might have "Jupyter" instead of "Iupyter". 
+Let's see how the JTOI() function corrects these mistakes.
