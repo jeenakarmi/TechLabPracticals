@@ -1,4 +1,4 @@
-""" Fixed - position Method """
+""" Fixed - point Method """
 
 import math
 
