@@ -1,3 +1,4 @@
+# Gauss Jacobi Method
 import math
 
 # Define the tolerance
